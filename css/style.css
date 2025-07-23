@@ -92,8 +92,8 @@ body {
     display: block !important;
   }
   .call-us {
-    font-size: 18px !important;
-    font-weight: 600 !important;
+    font-size: 15px !important;
+    font-weight: 400 !important;
     margin-top: 2%;
   }
   .navbar-brand {
@@ -102,5 +102,8 @@ body {
   }
   .join-us {
     display: none !important;
+  }
+  .social-media {
+    font-size: 12px !important;
   }
 }
